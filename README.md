@@ -2,5 +2,8 @@
 
 ## Instalación
 
+```bash
+$ streamlit run tdt.py
+```
 
 ## Uso
